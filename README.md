@@ -97,27 +97,27 @@ I enjoy working with **Power BI, Excel, SQL and DAX** to transform raw data into
 
 ## 📜 Certifications
 
-* 🏆 Power BI for Beginners – Microsoft / Simplilearn
-* 📊 Introduction to Business Intelligence – CFI
-* 📈 Business Intelligence – MindLuster
-* 📗 Microsoft Excel – Beginners & Experts
-* 💰 Accounting Fundamentals – Corporate Finance Institute
-* 🏦 Banking, Finance & Insurance – Bajaj Finserv CPBFI
-* 🤖 AI in HR – Keka Academy
-* 📣 Digital Marketing Strategy – Simplilearn
-* 🚀 Entrepreneurial Management – Great Learning
+* 🏆 **Power BI for Beginners** – Microsoft / Simplilearn
+* 📊 **Introduction to Business Intelligence** – CFI
+* 📈 **Business Intelligence** – MindLuster
+* 📗 **Microsoft Excel – Beginners & Experts**
+* 💰 **Accounting Fundamentals** – Corporate Finance Institute
+* 🏦 **Banking, Finance & Insurance** – Bajaj Finserv CPBFI
+* 🤖 **AI in HR** – Keka Academy
+* 📣 **Digital Marketing Strategy** – Simplilearn
+* 🚀 **Entrepreneurial Management** – Great Learning
 
 ---
 
 ## 🎯 Currently Learning
 
 ```text
-Power BI          ███████████████████░  Advanced
-SQL               ███████████████░░░░░  Intermediate
-Excel             ███████████████████░  Advanced
+Power BI           ███████████████████░  Advanced
+SQL                ███████████████░░░░░  Intermediate
+Excel              ███████████████████░  Advanced
 Financial Analysis ███████████████░░░░░  Intermediate
-Data Analytics    ███████████████░░░░░  Intermediate
-AI & FinTech      ██████████░░░░░░░░░░  Learning
+Data Analytics     ███████████████░░░░░  Intermediate
+AI & FinTech       ██████████░░░░░░░░░░  Learning
 ```
 
 ---
@@ -147,11 +147,11 @@ I aim to build a career where **Finance and Business Analytics come together** t
 
 I'm always interested in connecting with people working in **Finance, Data Analytics, Business Intelligence and FinTech**.
 
-📧 Email: **[your-email@example.com](mailto:your-email@example.com)**
+📧 **Email:** [bchandana.2004@gmail.com](mailto:bchandana.2004@gmail.com)
 
-💼 LinkedIn: **[Add your LinkedIn profile](https://www.linkedin.com/)**
+💼 **LinkedIn:** [linkedin.com/in/bagadichandana](https://linkedin.com/in/bagadichandana)
 
-📊 GitHub: **[Explore my projects](https://github.com/)**
+📊 **GitHub:** [Explore my projects](https://github.com/)
 
 ---
 
