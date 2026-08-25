@@ -308,8 +308,6 @@ I'm interested in connecting with professionals working in:
 
 💼 **LinkedIn:** linkedin.com/in/bagadichandana
 
-💻 **GitHub:** github.com/
-
 ---
 
 ### ⭐ Thanks for visiting my portfolio!
